@@ -1,9 +1,5 @@
 {
   "name": "wedding-seating-planner",
   "version": "1.0.0",
-  "description": "婚礼座位安排网站",
-  "scripts": {
-    "dev": "node server.js",
-    "test": "node test.js"
-  }
+  "description": "婚礼座位安排网站"
 }
